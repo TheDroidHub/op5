@@ -1,5 +1,5 @@
 ---
-title: Home
+title: OnePlus 5 Info Hub
 description: All you need to know about the OP5 in one place!
 ---
 
