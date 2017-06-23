@@ -1,3 +1,8 @@
+---
+title: Home
+description: All you need to know about the OP5 in one place!
+---
+
 # Welcome to OnePlus 5 Info Hub!		
 
 Here you can find info of the available ROMs, useful guides etc.		
