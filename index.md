@@ -18,6 +18,7 @@ Maintainers of this page:
 * RishuP 'X'		
 * Devansh
 * Deletescape		
+* jocx
 
 > Credits to Nishith (The Imp) for the idea and initial versions.
 
