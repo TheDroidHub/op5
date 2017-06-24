@@ -23,16 +23,9 @@ Maintainers of this page:
 * RishuP 'X'		
 * Devansh
 * Deletescape		
-* [jocx](https://joonatanh.com)
+
 <pre>
-    <div class="container">
-        <div class="block two first">
-            <h2></h2>
-            <div class="wrap">
-                <a href="https://joonatanh.com" target="_clear">jocx</a>
-           </div>
-        </div>
-    </div>
+*<a href="https://joonatanh.com" target="_clear">jocx</a>
 </pre>
 > Credits to Nishith (The Imp) for the idea and initial versions.
 
