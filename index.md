@@ -23,8 +23,7 @@ Maintainers of this page:
 * RishuP 'X'		
 * Devansh
 * Deletescape	
-<br>
-*<a href="https://joonatanh.com" target="_clear">jocx</a>
+* <a href="https://joonatanh.com" target="_clear">jocx</a>
 
 > Credits to Nishith (The Imp) for the idea and initial versions.
 
