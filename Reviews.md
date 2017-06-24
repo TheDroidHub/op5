@@ -15,7 +15,8 @@ description: List of OP5 reviews
 * [Dave Lee](https://www.youtube.com/watch?v=YcPm16U55sE)
 * [Pocketnow](https://www.youtube.com/watch?v=VEz7u8S3kFw)
 * [CNET](https://www.youtube.com/watch?v=YwURYcOrpvs)
-* [JerrRigEverything's Durability Test](https://www.youtube.com/watch?v=oUdYRw6DV38)
+* [JerryRigEverything's Durability Test](https://www.youtube.com/watch?v=oUdYRw6DV38)
+* iGyaan's [Unboxing](https://www.youtube.com/watch?v=hCrlpV1y23A) & [Full Review](https://www.youtube.com/watch?v=IX0B62_LBDs)
 
 
 ### Written
