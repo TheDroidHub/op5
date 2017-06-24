@@ -22,7 +22,8 @@ Maintainers of this page:
 * Cool Droid		
 * RishuP 'X'		
 * Devansh
-* Deletescape		
+* Deletescape	
+<br>
 *<a href="https://joonatanh.com" target="_clear">jocx</a>
 
 > Credits to Nishith (The Imp) for the idea and initial versions.
