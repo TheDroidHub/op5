@@ -17,6 +17,7 @@ description: List of OP5 reviews
 * [CNET](https://www.youtube.com/watch?v=YwURYcOrpvs)
 * [JerryRigEverything's Durability Test](https://www.youtube.com/watch?v=oUdYRw6DV38)
 * iGyaan's [Unboxing](https://www.youtube.com/watch?v=hCrlpV1y23A) & [Full Review](https://www.youtube.com/watch?v=IX0B62_LBDs)
+* [Flossy Carter's Unboxing & First Impressions](https://www.youtube.com/watch?v=IDDIJBqRs3o)
 
 
 ### Written
